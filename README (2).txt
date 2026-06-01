@@ -1,16 +1,26 @@
-Live Demo:
+# Exoplanet Classifier
 
-https://huggingface.co/spaces/NedaBreath/Exoplanet-Detectors
+AI-powered Exoplanet Detection System built with Python and Machine Learning.
 
+## Live Demo
 
+https://huggingface.co/spaces/NedaBreath/Exoplanet-Detector
 
-Project:
+## Features
 
-Exoplanet Detector
+- Exoplanet prediction using Machine Learning
+- Interactive web interface
+- Real-time classification
+- Built with Python
 
+## Technologies
 
+- Python
+- Scikit-Learn
+- Pandas
+- NumPy
+- Hugging Face Spaces
 
-Achievement:
+## Project Status
 
-Selected as Global Nominee in NASA Space Apps Challenge 2025
-
+Developed and deployed as a functional machine learning application for exoplanet detection.
